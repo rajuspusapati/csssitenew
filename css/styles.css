@@ -1,0 +1,148 @@
+
+
+body{
+
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+
+}
+
+p{
+  line-height:2;
+
+}
+h1{
+   width: 40%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  color: #66BFBF;
+
+}
+h2
+{
+font-family: 'Montserrat', sans-serif;
+font-size:2rem;
+color:#66BFBF;
+font-weight: bold;
+padding-bottom: 10px;
+}
+
+h3
+{font-family: 'Montserrat', sans-serif;
+color:#11999E;
+font-weight: bold;
+
+}
+
+hr {
+border-style: dotted none none;
+background-color: white;
+width : 35px;
+height: 0;
+border-color: grey;
+border-width: 5px;
+padding-bottom: 10px;
+margin: 100px auto 100px auto;
+  }
+
+/* Class Stlyes*/
+.topcontainer{
+  background-color: #f8eeea;
+  position: relative;
+  padding-top: 80px;
+
+}
+
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 20px 0 20px;
+}
+.web{
+
+  text-decoration: underline;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left:450px;
+
+
+}
+.top-cloud{
+position: absolute;
+right :475px;
+top: 30px;
+
+}
+.profile-picture{
+  width: 100px;
+  margin-top: 100px;
+
+}
+.skill-one{width: 25%;
+float: left;
+margin-right:30px; }
+.skill-two{width: 25%;
+  float: right;
+  margin-left:30px;}
+.footer-link
+
+{
+
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  margin : 10px 20px;
+  text-decoration: none;
+
+}
+.footer-link:hover {
+  color :white;
+}
+
+.skill-row{
+
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+
+}
+.intro{width:30%;
+margin: auto;}
+
+.contact-description{
+  width:30%;
+  margin: 40px auto 80px ;
+
+}
+.btn {
+	background-color:#66BFBF;
+	border-radius:8px;
+  margin-bottom:20px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #66BEBF;
+}
+.btn:hover {
+	background-color:#66BFBD;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.copyright{
+  color: #11999E;
+  font-size: 50%;
+  padding: 20px 0;
+}
+
+
+/*id Stlyes */
